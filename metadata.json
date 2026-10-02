@@ -1,0 +1,6 @@
+{
+  "name": "Kairo: 2D Arcade Fighter",
+  "description": "90s manga-style 2D arcade fighting game with deep combo chains, special moves, super arts, dynamic visual effects, multiple characters, stages, and game modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
